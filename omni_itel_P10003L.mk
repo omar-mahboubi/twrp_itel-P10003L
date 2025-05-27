@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/itel/itel-P10003L/device.mk)
 
 PRODUCT_DEVICE := itel-P10003L
-PRODUCT_NAME := omni_itel-P10003L
+PRODUCT_NAME := omni_itel_P10003L
 PRODUCT_BRAND := Itel
 PRODUCT_MODEL := itel P10003L
 PRODUCT_MANUFACTURER := itel
