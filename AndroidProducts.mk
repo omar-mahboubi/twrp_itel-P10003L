@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_itel_P10003L.mk
+    $(LOCAL_DIR)/twrp_itel_P10003L.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_itel_P10003L-user \
-    omni_itel_P10003L-userdebug \
-    omni_itel_P10003L-eng
+    twrp_itel_P10003L-user \
+    twrp_itel_P10003L-userdebug \
+    twrp_itel_P10003L-eng
